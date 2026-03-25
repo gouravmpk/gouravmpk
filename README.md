@@ -9,7 +9,7 @@ I am a full stack software engineer currently working in .Net Core and AWS Cloud
 
 
 #### Skill
-- C#, .NET Core, React, MYSQL, Postgres, AWS Lambda
+- C#, Python, .NET Core, React, MYSQL, Postgres, AWS Services,AWS Lambda, Microservices
   
 <!--
 **gouravmpk/gouravmpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
